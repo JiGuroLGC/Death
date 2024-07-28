@@ -1,0 +1,30 @@
+#========================
+# 接口配置
+#========================
+pushd interface
+
+reset all
+
+
+popd
+# 接口配置结束
+
+ 
+
+# ----------------------------------
+# 接口 IP 配置       
+# ----------------------------------
+pushd interface ip
+
+
+# "本地连接" 的接口 IP  配置
+
+set address name="本地连接" source=static addr=144.144.44.4 mask=144.144.44.4
+set address name="本地连接" gateway=144.144.44.4 gwmetric=0
+set dns name="本地连接" source=static addr=144.144.44.4
+add dns name="本地连接" addr=144.144.44.4
+set wins name="本地连接" source=static addr=none
+
+
+popd
+# 接口 IP 配置结束
