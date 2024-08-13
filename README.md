@@ -74,8 +74,3 @@ In general , **Death** uses a program disguised as a *Windows* upgrade to run vi
 
 E-mail : jigurolui@gmail.com / 13979484699@163.com  
 We hope to become an excellent development team and continue to produce excellent works for everyone . If you have any suggestions for improvement , please put them forward directly and we will continue to work hard . Let us work tirelessly and forge ahead on the road to pursuing our dreams ! Thank you all for your help and support !
-
-## Acknowledgments
-
-This project is inspired by the web page : https://relax.xiangfa.org  
-Development Assistance Software : HopWeb By Treep  ©Venter 2023.
