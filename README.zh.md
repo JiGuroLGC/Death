@@ -64,13 +64,13 @@
 ![1.png](https://s2.loli.net/2024/08/16/YCsJI4lF5OUgD1V.png)
 
 <div align="center">DeathTheme.exe 恐怖主题</div>
-
+<div> </div>
 同时 ，还会打开 *DeathWanning.exe* 弹出无法关闭的置顶勒索弹窗 ， *DeathWanning.exe* 会有一个假的感染标识码 ，并有一个付款倒计时 ，付款地址同样是伪造的 。如果倒计时结束 ，电脑将会蓝屏关机 ，再也无法启动 。
 
 ![2.png](https://s2.loli.net/2024/08/16/mbYSe6ZyhljAIwL.png)
 
 <div align="center">DeathWanning.exe 勒索界面</div>
-
+<div> </div>
 最后 ， **死神** 会打开屏幕绘制程序 *DeathDrawscreen.exe* ，在电脑屏幕上绘制各种特效图案 。 **死神** 的主程序将会停止 ，病毒的感染也已结束 。
 
 ![3.png](https://s2.loli.net/2024/08/24/uPmZH6ezy7VBhQi.png)  
@@ -85,7 +85,7 @@
 ![12.png](https://s2.loli.net/2024/08/24/AvZskfQUXLyEGxj.png)
 
 <div align="center">DeathDrawscreen.exe 特效图案截选</div>
-
+<div> </div>
 以上就是 **死神** 病毒感染计算机的全流程 ，流程可能会随着病毒的更新而改变 。
 
 **死神** 的变体有两种 ，一种是立即发作版 ，另一种是木马潜伏版 。前者是直接释放文件后 ，不播放更新视频 ，直接运行主要的几个病毒程序 ，从打开到弹出勒索弹窗的时间不到20秒 。后者是释放文件后 ，隐藏进程 ，在后台偷偷运行 ，在用户的电脑里潜伏数天 ，复制后门软件 ，广泛传播 ，然后在设定的时间在后台运行主要的几个病毒程序 ，不播放更新视频 。

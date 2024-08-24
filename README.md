@@ -63,14 +63,14 @@ After *DeathMain.exe* performs a series of operations , it will wait for the upg
 
 ![1.png](https://s2.loli.net/2024/08/16/YCsJI4lF5OUgD1V.png)
 
-<div align="center">DeathTheme.exe Horror Theme</div>  
-
+<div align="center">DeathTheme.exe Horror Theme</div>
+<div> </div>
 At the same time , *DeathWanning.exe* will open a top ransom pop-up window that cannot be closed , *DeathWanning.exe* will have a fake infection identifier and a payment countdown , the payment address is also fake . If the countdown is over , the computer will shut down with a blue screen and will never start up again .
 
 ![2.png](https://s2.loli.net/2024/08/16/mbYSe6ZyhljAIwL.png)
 
 <div align="center">DeathWanning.exe Ransomware Interface</div>
-
+<div> </div>
 Finally , **Death** will open the screen drawing program *DeathDrawscreen.exe* to draw various special effects patterns on the computer screen . The main program of **Death** will be stopped and the virus infection has ended .
 
 ![3.png](https://s2.loli.net/2024/08/24/uPmZH6ezy7VBhQi.png)  
@@ -85,7 +85,7 @@ Finally , **Death** will open the screen drawing program *DeathDrawscreen.exe* t
 ![12.png](https://s2.loli.net/2024/08/24/AvZskfQUXLyEGxj.png)
 
 <div align="center">DeathDrawscreen.exe Special Effects Screenshots</div>
-
+<div> </div>
 The above is the entire process of the **Death** virus infecting a computer . The process may change as the virus is updated .
 
 There are two variants of **Death** , one is the immediate version and the other is the Trojan latent version . The former directly releases the file , does not play the update video , and directly runs several major virus programs . The time from opening to the pop-up of the ransomware pop-up window is less than 20 seconds . The latter is to hide the process after releasing the file , run secretly in the background , lurk in the user's computer for several days , copy the backdoor software , spread it widely , and then run several major virus programs in the background at a set time without playing updates video .
