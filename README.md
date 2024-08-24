@@ -65,6 +65,7 @@ After *DeathMain.exe* performs a series of operations , it will wait for the upg
 
 <div align="center">DeathTheme.exe Horror Theme</div>
 
+
 At the same time , *DeathWanning.exe* will open a top ransom pop-up window that cannot be closed , *DeathWanning.exe* will have a fake infection identifier and a payment countdown , the payment address is also fake . If the countdown is over , the computer will shut down with a blue screen and will never start up again .
 
 ![2.png](https://s2.loli.net/2024/08/16/mbYSe6ZyhljAIwL.png)
