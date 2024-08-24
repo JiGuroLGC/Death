@@ -1,5 +1,8 @@
 <div align="center">
 <!-- Title: -->
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
+    <img src="https://s2.loli.net/2024/08/24/jvc6toPXwCHiqIL.png" height="150" alt="logo.png">
+  </a>
   <h1><a href="https://github.com/JiGuroLGC/Death/">死神</a></h1>
   <h2>我是来自天堂的死神</h2>
   <h2>要你成为最痛苦的人</h2>
@@ -22,10 +25,6 @@
 ## 介绍
 
 **死神** 是一款仅供学习研究的自制危险电脑病毒 ，伪装成 *Windows* 系统升级程序 ，可以加密文件、破坏电脑、通过多种介质传播 ，感染对象是x86和x64架构的 *Windows 7* 系统及以上系统 ，在某些系统版本内不支持 ，在 *Windows 10* 或 *Windows 11* 系统上效果最佳 ，目前仅支持少数语言 。
-
-## 界面预览
-
-静待公布......
 
 ## 开发背景
 
@@ -60,9 +59,32 @@
 
 **死神** 进行了一定的免杀和压缩 ，但是仍然无法避免被杀毒软件所查杀 。 **死神** 的外表是一个伪装升级程序 ，一旦以管理员身份运行了程序 ，程序就会启动 *DeathUp.exe* 主动提权至 *SYSTEM* 权限 ，并解压所有所需文件至`C:\Death`的隐藏文件夹下 ，前台依靠 *DeathVideo.exe* 弹出全屏窗口播放升级视频 ，杀死文件资源管理器 ，开启 *DeathHook.exe* 屏蔽鼠标键盘输入 ，开启 *DeathKiller.exe* 循环杀死杀毒软件进程 ，启动 *DeathMBR.exe* 修改扇区并禁用PE ，启动 *DeathReg.exe* 改写注册表 ，启动 *DeathSend.exe* 通过各种方式将病毒传播出去 ，启动 *DeathEncryption.exe* 加密其他文件夹文件 ，后台启动主程序 *DeathMain.exe* ，执行各种操作 ，例如删除文件 、 格式化磁盘 、修改开机密码 、修改文件关联 、修改启动选项等 。至此 ，被感染的电脑已经被完全破坏 。
 
-在 *DeathMain.exe* 执行完一系列操作后 ，会静待升级视频播放完 ，一旦视频播放完毕 ，主程序会立即启动 *DeathTheme.exe* 修改电脑上的主题为恐怖主题 ，拉起 *DeathMusic.exe* 循环播放恐怖音乐和勒索音频 ，同时打开 *DeathWanning.exe* 弹出无法关闭的置顶勒索弹窗 ， *DeathWanning.exe* 会有一个假的感染标识码 ，并有一个付款倒计时 ，付款地址同样是伪造的 。如果倒计时结束 ，电脑将会蓝屏关机 ，再也无法启动 。
+在 *DeathMain.exe* 执行完一系列操作后 ，会静待升级视频播放完 ，一旦视频播放完毕 ，主程序会立即启动 *DeathTheme.exe* 修改电脑上的主题为恐怖主题 ，拉起 *DeathMusic.exe* 循环播放恐怖音乐和勒索音频 。
+
+![1.png](https://s2.loli.net/2024/08/16/YCsJI4lF5OUgD1V.png)
+
+<div align="center">DeathTheme.exe 恐怖主题</div>
+
+同时 ，还会打开 *DeathWanning.exe* 弹出无法关闭的置顶勒索弹窗 ， *DeathWanning.exe* 会有一个假的感染标识码 ，并有一个付款倒计时 ，付款地址同样是伪造的 。如果倒计时结束 ，电脑将会蓝屏关机 ，再也无法启动 。
+
+![2.png](https://s2.loli.net/2024/08/16/mbYSe6ZyhljAIwL.png)
+
+<div align="center">DeathWanning.exe 勒索界面</div>
 
 最后 ， **死神** 会打开屏幕绘制程序 *DeathDrawscreen.exe* ，在电脑屏幕上绘制各种特效图案 。 **死神** 的主程序将会停止 ，病毒的感染也已结束 。
+
+![3.png](https://s2.loli.net/2024/08/24/uPmZH6ezy7VBhQi.png)  
+![4.png](https://s2.loli.net/2024/08/24/2BI56rP1asqo3zh.png)  
+![5.png](https://s2.loli.net/2024/08/24/Rl7wdgjqm1tEWLp.png)  
+![6.png](https://s2.loli.net/2024/08/24/rbxgK7JT3GXvNqL.png)  
+![7.png](https://s2.loli.net/2024/08/24/R3tsr2XV9Dqo5kN.png)  
+![8.png](https://s2.loli.net/2024/08/24/oZePHnUClQYtFJ5.png)  
+![9.png](https://s2.loli.net/2024/08/24/5WePOa2DbM7usKX.png)  
+![10.png](https://s2.loli.net/2024/08/24/O9U8gNyestwXMvm.png)
+![11.png](https://s2.loli.net/2024/08/24/VI5kLdO2Yq7RveQ.png)  
+![12.png](https://s2.loli.net/2024/08/24/AvZskfQUXLyEGxj.png)
+
+<div align="center">DeathDrawscreen.exe 特效图案截选</div>
 
 以上就是 **死神** 病毒感染计算机的全流程 ，流程可能会随着病毒的更新而改变 。
 
@@ -74,3 +96,12 @@
 
 电子邮箱 : jigurolui@gmail.com / 13979484699@163.com  
 我们希望成为一个优秀的开发团队 ，持续为大家输出优秀的作品 ，如果您有什么改进意见 ，请您直接提出来 ，我们会继续加油 。让我们在追梦的道路上不懈奋斗 、砥砺前行 ！感谢大家的帮助与支持 ！
+
+## 许可证
+
+本项目采用 Apache 2.0 许可证 ，详情请参阅 [LICENSE](LICENSE) 文件 。
+
+## 鸣谢
+
+本项目受网页启发 : https://relax.xiangfa.org  
+开发辅助软件 : HopWeb By Treep  ©Venter 2023.

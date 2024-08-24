@@ -1,5 +1,8 @@
 <div align="center">
 <!-- Title: -->
+  <a href="https://github.com/JiGuroLGC/Listen_Carefully/">
+    <img src="https://s2.loli.net/2024/08/24/jvc6toPXwCHiqIL.png" height="150" alt="logo.png">
+  </a>
   <h1><a href="https://github.com/JiGuroLGC/Death/">Death</a></h1>
   <h2>I Am A Reaper From Heaven's Realm</h2>
   <h2>I Cast You Into Endless Despair</h2>
@@ -22,10 +25,6 @@ This is a computer virus that is extremely harmful and contagious , this virus w
 ## Introduce
 
 **Death** is a dangerous homemade computer virus for learning and research purposes only , disguised as a *Windows* system upgrade program , it can encrypt files , damage computers and spread through multiple media , it infects *Windows 7* and above on x86 and x64 architectures , it is not supported by some system versions , it works best on *Windows 10* or *Windows 11* , it is supported by a limited number of systems at present . The best results are achieved on *Windows 10* or *Windows 11* , and only a few languages are currently supported .
-
-## Interface Preview
-
-Waiting to be announced ......
 
 ## Development Background
 
@@ -60,9 +59,32 @@ Run the program as administrator , and enjoy !
 
 **Death** has undergone certain anti-virus protection and compression , but it still cannot avoid being detected by anti-virus software . **Death** appears to be a disguised upgrade program . Once the program is run as an administrator , the program will start *DeathUp.exe* to actively elevate privileges to *SYSTEM* permissions , and unzip all required files to under the hidden folder of `C:\Death` , the front desk relies on *DeathVideo.exe* to pop up a full-screen window to play the upgraded video , kill the file explorer , open *DeathHook.exe* to block mouse and keyboard input , and open *DeathKiller.exe* to kill in a loop Anti-virus software process , start *DeathMBR.exe* , modify the sector and disable PE , start *DeathReg.exe* , rewrite the registry , start *DeathSend.exe* , spread the virus through various methods , start *DeathEncryption.exe* , encrypt others folder file , start the main program *DeathMain.exe* in the background , and perform various operations , such as deleting files , formatting disks , modifying power-on passwords , modifying file associations , modifying startup options , etc. At this point , the infected computer has been completely destroyed .
 
-After *DeathMain.exe* performs a series of operations , it will wait for the upgrade video to finish playing . Once the video is finished playing , the main program will immediately start *DeathTheme.exe* to modify the theme on the computer to a horror theme and launch *DeathMusic.exe* plays horror music and ransomware audio in a loop , while opening *DeathWanning.exe* pops up a top ransomware pop-up window that cannot be closed . *DeathWanning.exe* will have a fake infection identification code and a payment countdown , and the payment address is also forged . If the countdown ends , the computer will shut down with a blue screen and cannot be started again .
+After *DeathMain.exe* performs a series of operations , it will wait for the upgrade video to finish playing . Once the video finishes playing , the main program will immediately launch *DeathTheme.exe* to change the theme of the computer to a horror theme , and pull up *DeathMusic.exe* to play the horror music and the ransom audio in a loop .
+
+![1.png](https://s2.loli.net/2024/08/16/YCsJI4lF5OUgD1V.png)
+
+<div align="center">DeathTheme.exe Horror Theme</div>
+
+At the same time , *DeathWanning.exe* will open a top ransom pop-up window that cannot be closed , *DeathWanning.exe* will have a fake infection identifier and a payment countdown , the payment address is also fake . If the countdown is over , the computer will shut down with a blue screen and will never start up again .
+
+![2.png](https://s2.loli.net/2024/08/16/mbYSe6ZyhljAIwL.png)
+
+<div align="center">DeathWanning.exe Ransomware Interface</div>
 
 Finally , **Death** will open the screen drawing program *DeathDrawscreen.exe* to draw various special effects patterns on the computer screen . The main program of **Death** will be stopped and the virus infection has ended .
+
+![3.png](https://s2.loli.net/2024/08/24/uPmZH6ezy7VBhQi.png)  
+![4.png](https://s2.loli.net/2024/08/24/2BI56rP1asqo3zh.png)  
+![5.png](https://s2.loli.net/2024/08/24/Rl7wdgjqm1tEWLp.png)  
+![6.png](https://s2.loli.net/2024/08/24/rbxgK7JT3GXvNqL.png)  
+![7.png](https://s2.loli.net/2024/08/24/R3tsr2XV9Dqo5kN.png)  
+![8.png](https://s2.loli.net/2024/08/24/oZePHnUClQYtFJ5.png)  
+![9.png](https://s2.loli.net/2024/08/24/5WePOa2DbM7usKX.png)  
+![10.png](https://s2.loli.net/2024/08/24/O9U8gNyestwXMvm.png)
+![11.png](https://s2.loli.net/2024/08/24/VI5kLdO2Yq7RveQ.png)  
+![12.png](https://s2.loli.net/2024/08/24/AvZskfQUXLyEGxj.png)
+
+<div align="center">DeathDrawscreen.exe Special Effects Screenshots</div>
 
 The above is the entire process of the **Death** virus infecting a computer . The process may change as the virus is updated .
 
@@ -74,3 +96,12 @@ In general , **Death** uses a program disguised as a *Windows* upgrade to run vi
 
 E-mail : jigurolui@gmail.com / 13979484699@163.com  
 We hope to become an excellent development team and continue to produce excellent works for everyone . If you have any suggestions for improvement , please put them forward directly and we will continue to work hard . Let us work tirelessly and forge ahead on the road to pursuing our dreams ! Thank you all for your help and support !
+
+## License
+
+This project uses the Apache 2.0 license , see the [LICENSE](LICENSE) file for details .
+
+## Acknowledgments
+
+This project is inspired by the web page : https://relax.xiangfa.org  
+Development Assistance Software : HopWeb By Treep  ©Venter 2023.
