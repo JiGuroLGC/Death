@@ -100,8 +100,3 @@ We hope to become an excellent development team and continue to produce excellen
 ## License
 
 This project uses the Apache 2.0 license , see the [LICENSE](LICENSE) file for details .
-
-## Acknowledgments
-
-This project is inspired by the web page : https://relax.xiangfa.org  
-Development Assistance Software : HopWeb By Treep  ©Venter 2023.
